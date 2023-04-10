@@ -6,9 +6,9 @@ public:
 	string nim;
 	string nama;
 public: void cetak() {
-	cout << "NIM = " << nim;
+	cout << "\nNIM = " << nim;
 	cout << "\nNama = " << nama;
-	}
+}
 };
 
 class Matakuliah {
