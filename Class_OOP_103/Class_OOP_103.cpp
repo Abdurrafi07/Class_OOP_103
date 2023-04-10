@@ -29,8 +29,12 @@ public:
 		cout << "Kode Matakuliah : " << kode;
 		cout << "Nama Matakuliah : " << namaM;
 		cout << "SKS : " << sks;
-
 	}
-
-
 };
+
+int main()
+{
+	Mahasiswa mhs1;
+	Matakuliah mk;
+
+}
