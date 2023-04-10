@@ -45,5 +45,4 @@ int main()
 
 	mk.input();
 	mk.tampil();
-
 }
